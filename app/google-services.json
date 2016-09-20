@@ -1,0 +1,112 @@
+{
+  "project_info": {
+    "project_number": "220999053731",
+    "firebase_url": "https://admob-app-id-8293118114.firebaseio.com",
+    "project_id": "admob-app-id-8293118114",
+    "storage_bucket": "admob-app-id-8293118114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220999053731:android:9220851f52fdb274",
+        "android_client_info": {
+          "package_name": "com.hexlab.a_lock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220999053731-bp1plv4rlj833qb47cqjge5ce9un7ng0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hexlab.a_lock",
+            "certificate_hash": "670FD01FFBE6F6423B298609C167D9FF8C926580"
+          }
+        },
+        {
+          "client_id": "220999053731-casuqqm5boqvrthhj5jvlrpin8nsco5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClVf7xw7Wp96cxCeTqjxJYYojjJNMef9w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220999053731:android:1ca059c569bc81ed",
+        "android_client_info": {
+          "package_name": "com.hexlab.youtubify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220999053731-casuqqm5boqvrthhj5jvlrpin8nsco5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClVf7xw7Wp96cxCeTqjxJYYojjJNMef9w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220999053731:android:8a22d74c17f36598",
+        "android_client_info": {
+          "package_name": "com.hexlab.remoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220999053731-casuqqm5boqvrthhj5jvlrpin8nsco5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClVf7xw7Wp96cxCeTqjxJYYojjJNMef9w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
